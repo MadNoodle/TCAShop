@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3BB08FC-B4A3-4B77-A915-07F82DDFC0DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94FAB7E7-33EF-4A0F-997E-A9F0AC6F8C57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAPedro/AddToCartFeature/AddToCartFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1AC818A-F420-43EB-AD62-6D67F9F6AD88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAPedro/AddToCartFeature/AddToCartFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCB8EB67-4B88-42B3-BBB0-70E04CC4E5BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAPedro/Client/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "live"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FCB8EB67-4B88-42B3-BBB0-70E04CC4E5BF - a4e44a3e0edb9ff3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "FCB8EB67-4B88-42B3-BBB0-70E04CC4E5BF - ad081f57c8912212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "FCB8EB67-4B88-42B3-BBB0-70E04CC4E5BF - b222d78e19f22e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "FCB8EB67-4B88-42B3-BBB0-70E04CC4E5BF - a4e44a3e0edb9e10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "FCB8EB67-4B88-42B3-BBB0-70E04CC4E5BF - bb12536d93e73c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1D4CF31-1E84-4433-B605-D736E719F63D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAPedro/Client/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "live"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C1D4CF31-1E84-4433-B605-D736E719F63D - a4e44a3e0edb9f94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "C1D4CF31-1E84-4433-B605-D736E719F63D - bb12536d93e73d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #3 () async throws -&gt; TCAPedro.Profile in variable initialization expression of static TCAPedro.APIClient.live : TCAPedro.APIClient"
+                  moduleName = "TCAPedro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/Projects/TCAPedro/TCAPedro/Client/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
